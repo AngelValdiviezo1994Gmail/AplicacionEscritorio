@@ -19,7 +19,7 @@ namespace PruebaDeskTopAngelValdiviezo.Forms
 {
     public partial class frmDatosCliente : Form
     {
-        byte[] arregloImg;
+        byte[] arregloImgGen;
         public frmDatosCliente()
         {
             InitializeComponent();
@@ -59,7 +59,7 @@ namespace PruebaDeskTopAngelValdiviezo.Forms
                 bool formatoValido = objUtils.validateImage(arregloImg);
                 if(formatoValido)
                 {
-                    arregloImg = File.ReadAllBytes(abrirFotoPerfil.FileName);
+                    arregloImgGen = arregloImg;
                     pctBoxFotoPerfil.ImageLocation = abrirFotoPerfil.FileName;
                     pctBoxFotoPerfil.SizeMode = PictureBoxSizeMode.StretchImage;
                 }
@@ -75,7 +75,7 @@ namespace PruebaDeskTopAngelValdiviezo.Forms
             objCliente.cedula = txtCedula.Text;
             objCliente.telefono = txtTelefono.Text;
             objCliente.cursos = txtCursos.Text;
-            objCliente.fotoPerfil = arregloImg;
+            objCliente.fotoPerfil = arregloImgGen;
             objCliente.correo = txtCorreo.Text;
             bool correoValido = objUtils.VerificaCorreo(objCliente.correo);
             bool cedulaValida = objUtils.VerificaCedula(objCliente.cedula);

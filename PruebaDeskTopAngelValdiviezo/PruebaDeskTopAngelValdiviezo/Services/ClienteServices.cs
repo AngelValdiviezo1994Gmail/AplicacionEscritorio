@@ -23,7 +23,7 @@ namespace PruebaDeskTopAngelValdiviezo.Services
             {
                 using (SqlCommand command = clsConexion.CrearConexion())
                 {
-                    accesoDato.ProcedimientoAlmacenado = "[dbo].[agregar_cliente]";
+                    accesoDato.ProcedimientoAlmacenado = "[dbo].[agregar_cliente_nextTi]";
                     xmlParametro.LoadXml("<Peticion />");
                     xmlParametro.DocumentElement.SetAttribute("nombreCliente", objClienteEntrada.nombre);
                     xmlParametro.DocumentElement.SetAttribute("apellidoCliente", objClienteEntrada.apellido);

@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33403.182
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaDeskTopAngelValdiviezo", "PruebaDeskTopAngelValdiviezo\PruebaDeskTopAngelValdiviezo.csproj", "{3FCA1E87-26A4-40A1-9D09-CF8CDB60A1D2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Presentacion", "1.Presentacion", "{D0242F3F-516B-4EE9-AB24-4B4F57D54022}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Datos", "2.Datos", "{B0D88797-6243-487D-8A45-044CD9F54CC2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +22,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3FCA1E87-26A4-40A1-9D09-CF8CDB60A1D2} = {D0242F3F-516B-4EE9-AB24-4B4F57D54022}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8A91CBD4-52F4-45F9-8490-6D3A863D626E}
