@@ -59,6 +59,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Services\ClienteServices.cs" />
+    <Compile Include="Utilitarios\utils.cs" />
     <EmbeddedResource Include="Forms\frmDatosCliente.resx">
       <DependentUpon>frmDatosCliente.cs</DependentUpon>
     </EmbeddedResource>
