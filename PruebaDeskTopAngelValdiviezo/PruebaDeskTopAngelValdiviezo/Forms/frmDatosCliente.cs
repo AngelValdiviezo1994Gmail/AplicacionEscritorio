@@ -85,7 +85,7 @@ namespace PruebaDeskTopAngelValdiviezo.Forms
                 objCliente.cursos.Trim() == "" || objCliente.fotoPerfil == null || 
                 objCliente.correo.Trim() == "")
             {
-                MessageBox.Show("Llene todos los datos solicitados por favor...");
+                MessageBox.Show("Llene todos los datos solicitados por favor....");
                 return;
             }
 
