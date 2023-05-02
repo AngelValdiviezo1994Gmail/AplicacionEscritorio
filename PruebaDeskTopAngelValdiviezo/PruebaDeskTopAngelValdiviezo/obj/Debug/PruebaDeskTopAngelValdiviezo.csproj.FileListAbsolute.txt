@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\PruebaDeskTopAngelValdiviezo\PruebaDeskTopAngelValdiviezo\bin\Debug\PruebaDeskTopAngelValdiviezo.exe.config
+C:\Users\User\source\repos\PruebaDeskTopAngelValdiviezo\PruebaDeskTopAngelValdiviezo\bin\Debug\PruebaDeskTopAngelValdiviezo.exe
+C:\Users\User\source\repos\PruebaDeskTopAngelValdiviezo\PruebaDeskTopAngelValdiviezo\bin\Debug\PruebaDeskTopAngelValdiviezo.pdb
+C:\Users\User\source\repos\PruebaDeskTopAngelValdiviezo\PruebaDeskTopAngelValdiviezo\obj\Debug\PruebaDeskTopAngelValdiviezo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PruebaDeskTopAngelValdiviezo\PruebaDeskTopAngelValdiviezo\obj\Debug\PruebaDeskTopAngelValdiviezo.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\PruebaDeskTopAngelValdiviezo\PruebaDeskTopAngelValdiviezo\obj\Debug\PruebaDeskTopAngelValdiviezo.Forms.frmDatosCliente.resources
+C:\Users\User\source\repos\PruebaDeskTopAngelValdiviezo\PruebaDeskTopAngelValdiviezo\obj\Debug\PruebaDeskTopAngelValdiviezo.Properties.Resources.resources
+C:\Users\User\source\repos\PruebaDeskTopAngelValdiviezo\PruebaDeskTopAngelValdiviezo\obj\Debug\PruebaDeskTopAngelValdiviezo.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PruebaDeskTopAngelValdiviezo\PruebaDeskTopAngelValdiviezo\obj\Debug\PruebaDeskTopAngelValdiviezo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PruebaDeskTopAngelValdiviezo\PruebaDeskTopAngelValdiviezo\obj\Debug\PruebaDeskTopAngelValdiviezo.exe
+C:\Users\User\source\repos\PruebaDeskTopAngelValdiviezo\PruebaDeskTopAngelValdiviezo\obj\Debug\PruebaDeskTopAngelValdiviezo.pdb
